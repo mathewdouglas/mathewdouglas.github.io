@@ -1,3 +1,5 @@
-# mathewdouglas.github.io
+# Github-based website
 
-My Github-based webpage
+## About
+
+A repo for my github pages website
